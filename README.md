@@ -15,7 +15,7 @@ Beyond the business question, this project serves as a methodological comparison
 ---
 ## 🔍 Key Findings
 
-Using a synthetic dataset of 5,100 user sessions (simulating a "Hard Mode" scenario with noisy data), the analysis revealed:
+Using a synthetic dataset of 5,100 user sessions (simulating a scenario with noisy data), the analysis revealed:
 
 - The Peeking Problem: The Frequentist p-value fluctuated significantly ($p \approx 0.03 \to 0.20 \to 0.05$) as data accumulated, posing a risk of Type I errors if the test were stopped early.
 
