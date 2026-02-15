@@ -35,15 +35,13 @@ Simulated realistic, messy e-commerce logs including:
 
 - Missing Data: Null location values requiring imputation.
 
-- Skewed Revenue: Lognormal distribution for order values (to test non-parametric methods).
+- Skewed Revenue: Log normal distribution for order values (to test non-parametric methods).
 
 2. Statistical Models
 
 - Frequentist: Pearson's Chi-Squared Test ($\chi^2$) for conversion rates; Mann-Whitney U Test for revenue distributions.
 
 - Bayesian: Beta-Binomial model ($\alpha, \beta$) updating a weakly informative prior Beta(2, 98) to calculate Posterior probabilities.
-
-- Risk Analysis: Calculation of Expected Loss to quantify the downside risk of a decision in currency/conversion units.
 
 
 
