@@ -1,6 +1,6 @@
 ## Bayesian A/B Testing: The Paradox of Choice 📊
 
-A statistical experiment comparing Frequentist and Bayesian stopping rules in the context of Hick's Law.
+A statistical experiment comparing Frequentist and Bayesian in the context of Hick's Law.
 
 ## 📌 Overview
 
