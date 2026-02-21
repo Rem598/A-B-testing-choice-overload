@@ -31,11 +31,11 @@ Final Result: The Low Density layout achieved a 98.4% Probability of Superiority
 
 Simulated realistic, messy e-commerce logs including:
 
-- Bots & Duplicates: 5% noise injection.
+- Bots & Duplicates
 
-- Missing Data: Null location values requiring imputation.
+- Missing Data: Null values.
 
-- Skewed Revenue: Log normal distribution for order values (to test non-parametric methods).
+
 
 2. Statistical Models
 
