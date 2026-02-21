@@ -1,4 +1,4 @@
-## Bayesian A/B Testing: The Paradox of Choice 📊
+## Bayesian A/B Testing: The Paradox of Choice 
 
 A statistical experiment comparing Frequentist and Bayesian in the context of Hick's Law.
 
@@ -8,9 +8,9 @@ This project investigates Hick's Law (Choice Overload) in an e-commerce context.
 
 Beyond the business question, this project serves as a methodological comparison between:
 
-- Frequentist Inference: Chi-Square tests and p-values (sensitive to "peeking").
+- Frequentist Inference: Chi-Square tests and p-values.
 
-- Bayesian Inference: Beta-Binomial conjugate models (robust for sequential analysis).
+- Bayesian Inference: Beta-Binomial conjugate models.
 
 ---
 ## 🔍 Key Findings
