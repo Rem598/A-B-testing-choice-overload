@@ -47,20 +47,4 @@ Simulated realistic, messy e-commerce logs including:
 
 ---
 
-## 📈 Visualizations
 
-The project generates a dashboard comparing the stability of the two methods:
-
-Plot 1: Prior vs. Posterior distributions (Visualizing the separation).
-
-Plot 2: Sequential Analysis ($P(B>A)$ over time).
-
-Plot 3: Expected Loss Evolution (Risk decay).
-
-Plot 4: Method Comparison (P-Value volatility vs. Bayesian stability).
-
-📄 License
-
-This project is licensed under the MIT License.
-
-Prepared by Rehema Kemunto
