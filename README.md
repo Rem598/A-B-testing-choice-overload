@@ -17,17 +17,17 @@ That is the business question. But this project is also a methodological compari
 
 ## Key Findings
 
-**The low-density layout wins, with 98.4% probability of superiority and approximately 40% lift in revenue per user.**
+**1. The low-density layout wins, with 98.4% probability of superiority and approximately 40% lift in revenue per user.**
 
 But the more important finding is the methodological one.
 
-**The Frequentist p-value was unstable throughout the experiment.**
+**2. The Frequentist p-value was unstable throughout the experiment.**
 
 As data accumulated across 5,100 sessions, the p-value fluctuated between 0.03, 0.20, and 0.05. Had the test been stopped when p first crossed 0.05, the conclusion would have been based on noise. This is the peeking problem, and it is a real operational risk when teams check significance daily.
 
-**The Bayesian probability of superiority converged smoothly.**
+**3. The Bayesian probability of superiority converged smoothly.**
 
-The Bayesian metric identified the winner at N = 2,000 sessions — before the p-value stabilized — and did not reverse as more data arrived. It gave a stable, interpretable signal earlier.
+The Bayesian metric identified the winner at N = 2,000 sessions before the p-value stabilized  and did not reverse as more data arrived. It gave a stable, interpretable signal earlier.
 
 ---
 
